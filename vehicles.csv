@@ -1,0 +1,49 @@
+Type,Make,Model,Year,Miles
+Car,BMW,3 Series,1990,1000
+Car,BMW,3 Series,1990,421
+Car,BMW,2 Series,1990,61
+Car,BMW,3 Series,1990,712
+Car,BMW,2 Series,1990,909
+Car,BMW,1 Series,1990,603
+Truck,Ford,F-250,1990,743
+Truck,Ford,F-150,1990,741
+Truck,Ford,F-150,1990,464
+Truck,Ford,F-250,1990,651
+Truck,Ford,F-150,1990,673
+Truck,Ford,F-150,1990,487
+Truck,Ford,F-150,1990,445
+Truck,Ford,F-250,1990,659
+Truck,Ford,F-150,1990,128
+Truck,Ford,F-350,1990,438
+Truck,Ford,F-350,1990,236
+Car,Toyota,Camry,1990,259
+Car,Toyota,Camry,1990,626
+Car,Toyota,Camry X,1990,781
+Car,Toyota,Camry,1990,107
+Car,Toyota,Camry X,1990,669
+Car,Toyota,Camry,1990,943
+Car,Toyota,Camry X,1990,888
+Motorcycle,Yamaha,YA-1,1977,458
+Motorcycle,Yamaha,YC-1,1988,248
+Motorcycle,Yamaha,DT-1,1999,293
+Motorcycle,Yamaha,MF-1,2000,326
+Motorcycle,Yamaha,YC-1,2012,354
+Motorcycle,Yamaha,MF-1,2000,245
+Car,Toyota,Camry,1994,711
+Car,Toyota,Camry,2010,988
+Car,Toyota,Camry,2014,525
+Car,Toyota,Camry Y,2014,87
+Car,Toyota,Camry Y,2014,910
+Car,Toyota,Camry Y,2014,733
+Car,Toyota,Camry,2014,854
+Car,Toyota,Camry,2018,885
+Car,Toyota,Camry Y,2018,836
+Car,Toyota,Camry,2018,789
+Motorcycle,Yamaha,YC-1,1987,406
+Motorcycle,Yamaha,DT-1,2000,443
+Motorcycle,Yamaha,DT-1,2002,229
+Motorcycle,Yamaha,DT-1,2001,366
+Motorcycle,Yamaha,YC-1,1977,223
+Motorcycle,Yamaha,YC-1,1983,397
+Motorcycle,Yamaha,MF-1,1979,248
+Motorcycle,Yamaha,MF-1,1988,214
